@@ -60,7 +60,18 @@
         ]
     },
     "footer": {
-        "content": "&copy; Teckgeekz. All rights reserved. This Blog site was created by <a href=\"https://teckgeekz.com/\" target=\"_blank\">Teckgeekz</a>."
+        "content": "&copy; Teckgeekz. All rights reserved. This Blog site was created by <a href=\"https://teckgeekz.com/\" target=\"_blank\">Teckgeekz</a>.",
+        "links": [
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "icon_class": "dev",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            }
+        ]
     },
     "domain": "https://blog.teckgeekz.com",
     "favicon": "images/fav.png"
