@@ -39,6 +39,10 @@ seo:
       value: website
       keyName: property
       relativeUrl: false
+    - name: 'twitter:card'
+      value: summary_large_image
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
   description: >-
     Are you looking for inbound calls for Airlines in United States. Need
