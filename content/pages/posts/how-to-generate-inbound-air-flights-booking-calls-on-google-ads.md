@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: How to get started with Inbound calls for Travel
 subtitle: lorem-ipsum
 date: '2021-04-20'
 thumb_img_alt: lorem-ipsum
