@@ -39,7 +39,7 @@
                 "label": "lorem-ipsum",
                 "url": "#",
                 "style": "icon",
-                "icon_class": "facebook",
+                "icon_class": "twitter",
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
