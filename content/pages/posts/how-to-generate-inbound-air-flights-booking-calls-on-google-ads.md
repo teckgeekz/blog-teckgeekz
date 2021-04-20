@@ -12,6 +12,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
+content_img_path: images/Inbound calls for Travel.jpg
 ---
 # Basic Requirements to Start
 
