@@ -49,7 +49,7 @@
                 "url": "https://www.facebook.com/teckgeekz",
                 "style": "icon",
                 "icon_class": "facebook",
-                "new_window": false,
+                "new_window": true,
                 "no_follow": false,
                 "type": "action"
             }
