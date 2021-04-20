@@ -21,7 +21,7 @@ form_fields:
     options:
       - Facebook Ads
       - Travel Calls Campaign
-      - Other
+      - Google Ads
   - input_type: textarea
     name: message
     label: Message
