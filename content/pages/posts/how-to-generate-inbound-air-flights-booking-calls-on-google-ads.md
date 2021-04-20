@@ -13,6 +13,13 @@ seo:
       value: /images/Inbound%20calls%20for%20Travel.jpg
       keyName: property
       relativeUrl: true
+    - name: 'og:description'
+      value: >-
+        Are you looking for inbound calls for Airlines in United States. Need
+        assistance in generating inbound calls for Delta, United, Southwest and
+        spirit Airlines.
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
   description: >-
     Are you looking for inbound calls for Airlines in United States. Need
