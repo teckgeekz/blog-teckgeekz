@@ -1,6 +1,6 @@
 ---
 title: About Teckgeekz
-subtitle: This is a short page about me and my work
+subtitle: Teckgeeekz Digital Marketing & SEO Agency
 img_path: images/about.jpg
 seo:
   title: About Me
