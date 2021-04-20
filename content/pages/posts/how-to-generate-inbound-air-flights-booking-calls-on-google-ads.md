@@ -6,7 +6,7 @@ thumb_img_alt: Generate Inbound calls travel
 excerpt: "We provide comprehensive solution for\_Travel PPC\_and Travel Industry Ads account management."
 hide_header: false
 seo:
-  title: "\U0001F525\U0001F525 How to get started with Inbound Calls For Travel"
+  title: "\U0001F525\U0001F525 How to get started with Inbound Calls For Travel \U0001F525\U0001F525"
   robots: []
   extra:
     - name: 'og:image'
