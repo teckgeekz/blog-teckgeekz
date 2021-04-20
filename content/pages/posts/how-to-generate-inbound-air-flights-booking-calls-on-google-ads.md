@@ -8,7 +8,11 @@ hide_header: false
 seo:
   title: "\U0001F525\U0001F525 How to get started with Inbound Calls For Travel"
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: /images/Inbound%20calls%20for%20Travel.jpg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
   description: >-
     Are you looking for inbound calls for Airlines in United States. Need
