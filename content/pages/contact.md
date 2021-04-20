@@ -45,7 +45,9 @@ seo:
       value: Get in Touch
       keyName: property
     - name: 'og:description'
-      value: This is the contact page
+      value: >-
+        Get in touch With Teckgeekz Digital Marketing. Top Digital Marketing and
+        SEO Agency in New Delhi
       keyName: property
     - name: 'og:image'
       value: images/contact.jpg
