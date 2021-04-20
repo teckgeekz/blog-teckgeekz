@@ -34,17 +34,7 @@
             }
         ],
         "has_social": true,
-        "social_links": [
-            {
-                "label": "lorem-ipsum",
-                "url": "#",
-                "style": "link",
-                "icon_class": "dev",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
-            }
-        ]
+        "social_links": []
     },
     "footer": {
         "content": "&copy; Teckgeekz. All rights reserved. This Blog site was created by <a href=\"https://teckgeekz.com/\" target=\"_blank\">Teckgeekz</a>."
