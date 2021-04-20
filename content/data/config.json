@@ -67,5 +67,6 @@
     "footer": {
         "content": "&copy; Teckgeekz. All rights reserved. This Blog site was created by <a href=\"https://teckgeekz.com/\" target=\"_blank\">Teckgeekz</a>."
     },
-    "domain": "https://blog.teckgeekz.com"
+    "domain": "https://blog.teckgeekz.com",
+    "favicon": "images/fav.png"
 }
