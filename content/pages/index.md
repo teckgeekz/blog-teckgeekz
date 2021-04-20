@@ -22,7 +22,7 @@ seo:
         Teckgeekz Blog
       keyName: property
     - name: 'og:image'
-      value: images/home.jpg
+      value: /images/teckgeekz.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
