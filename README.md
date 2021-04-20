@@ -1,4 +1,5 @@
 # ✨ blog-teckgeekz ✨
+[![Netlify Status](https://api.netlify.com/api/v1/badges/71d612bf-cb51-4be0-80d2-b1eca83ef4dd/deploy-status)](https://app.netlify.com/sites/blog-teckgeekz/deploys)
 
 <img src="https://themes.stackbit.com/images/fjord-demo-1024x768.png" width="600">
 
