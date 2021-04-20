@@ -1,7 +1,7 @@
 ---
 title: Teckgeekz Blog
 has_more_link: true
-more_link_text: Keep reading
+more_link_text: Open Complete Article
 seo:
   title: Teckgeekz Blog - Digital Marketing & SEO Agency
   description: >-
