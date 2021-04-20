@@ -19,7 +19,7 @@ form_fields:
     label: Subject
     default_value: Please select
     options:
-      - Error on the site
+      - Facebook Ads
       - Sponsorship
       - Other
   - input_type: textarea
