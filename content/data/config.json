@@ -72,7 +72,7 @@
                 "type": "action"
             },
             {
-                "label": "Chat",
+                "label": "Chat ",
                 "url": "#",
                 "style": "link",
                 "icon_class": "dev",
