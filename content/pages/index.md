@@ -28,7 +28,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Teckgeekz Blog - Digital Marketing & SEO Agency
+      value: "\U0001F680\U0001F680 Teckgeekz Blog - Digital Marketing & SEO Agency \U0001F680\U0001F680"
     - name: 'twitter:description'
       value: >-
         Get latest information in Digital Marketing and Learn how to grow your
