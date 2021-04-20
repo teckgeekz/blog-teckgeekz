@@ -72,7 +72,7 @@
                 "type": "action"
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Chat",
                 "url": "#",
                 "style": "link",
                 "icon_class": "dev",
