@@ -3,7 +3,7 @@ title: Home
 has_more_link: true
 more_link_text: Keep reading
 seo:
-  title: Teckgeekz Blog
+  title: Teckgeekz Blog - Digital Marketing & SEO Agency
   description: >-
     Get latest information in Digital Marketing and Learn how to grow your
     online business. Be successful in creating your online presence. follow
