@@ -58,7 +58,9 @@ seo:
     - name: 'twitter:title'
       value: Get in Touch
     - name: 'twitter:description'
-      value: This is the contact page
+      value: >-
+        Get in touch With Teckgeekz Digital Marketing. Top Digital Marketing and
+        SEO Agency in New Delhi
     - name: 'twitter:image'
       value: images/contact.jpg
       relativeUrl: true
