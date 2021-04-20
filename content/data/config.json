@@ -73,7 +73,7 @@
         ]
     },
     "footer": {
-        "content": "&copy; Teckgeekz. All rights reserved. This Blog site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=fjord&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
+        "content": "&copy; Teckgeekz. All rights reserved. This Blog site was created by <a href=\"https://teckgeekz.com/\" target=\"_blank\">Teckgeekz</a>."
     },
     "domain": "https://blog.teckgeekz.com"
 }
