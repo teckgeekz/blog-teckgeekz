@@ -34,7 +34,9 @@ form_fields:
 submit_label: Send Message
 seo:
   title: Get in Touch
-  description: This is the contact page
+  description: >-
+    Get in touch With Teckgeekz Digital Marketing. Top Digital Marketing and SEO
+    Agency in New Delhi
   extra:
     - name: 'og:type'
       value: website
