@@ -23,11 +23,6 @@
                 "new_window": true
             },
             {
-                "label": "Style Guide",
-                "url": "/style-guide",
-                "style": "link"
-            },
-            {
                 "label": "Contact",
                 "url": "https://teckgeekz.com/contact-information/",
                 "style": "link"
