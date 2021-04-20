@@ -19,7 +19,8 @@
                 "label": "About",
                 "url": "https://teckgeekz.com/about-our-agency/",
                 "style": "link",
-                "no_follow": false
+                "no_follow": false,
+                "new_window": true
             },
             {
                 "label": "Style Guide",
