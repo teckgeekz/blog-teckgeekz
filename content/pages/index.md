@@ -13,7 +13,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Fjord Theme
+      value: Teckgeekz Blog - Digital Marketing & SEO Agency
       keyName: property
     - name: 'og:description'
       value: The preview of the Fjord theme
