@@ -20,7 +20,7 @@ form_fields:
     default_value: Please select
     options:
       - Facebook Ads
-      - Sponsorship
+      - Travel Calls Campaign
       - Other
   - input_type: textarea
     name: message
