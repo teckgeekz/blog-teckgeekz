@@ -27,6 +27,10 @@ seo:
         spirit Airlines.
       keyName: name
       relativeUrl: false
+    - name: 'og:title'
+      value: "\U0001F525\U0001F525 How to get started with Inbound Calls For Travel \U0001F525\U0001F525"
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
   description: >-
     Are you looking for inbound calls for Airlines in United States. Need
