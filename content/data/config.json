@@ -36,7 +36,7 @@
         "has_social": true,
         "social_links": [
             {
-                "label": "lorem-ipsum",
+                "label": "Twitter",
                 "url": "https://twitter.com/teckgeekz",
                 "style": "icon",
                 "icon_class": "twitter",
