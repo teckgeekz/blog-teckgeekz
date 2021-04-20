@@ -1,6 +1,6 @@
 ---
 title: How to get started with Inbound calls for Travel
-subtitle: lorem-ipsum
+subtitle: Basic Requirements for Travel calls
 date: '2021-04-20'
 thumb_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
