@@ -72,7 +72,7 @@
                 "type": "action"
             },
             {
-                "label": "Chat ",
+                "label": "WhatsaChat ",
                 "url": "http://wa.me/919582490332",
                 "style": "link",
                 "icon_class": "dev",
