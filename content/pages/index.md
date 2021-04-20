@@ -3,7 +3,7 @@ title: Teckgeekz Blog
 has_more_link: true
 more_link_text: Open Complete Article
 seo:
-  title: Teckgeekz Blog - Digital Marketing & SEO Agency
+  title: "\U0001F680\U0001F680 Teckgeekz Blog - Digital Marketing & SEO Agency \U0001F680\U0001F680"
   description: >-
     Get latest information in Digital Marketing and Learn how to grow your
     online business. Be successful in creating your online presence. follow
