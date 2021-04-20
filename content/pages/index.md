@@ -4,7 +4,10 @@ has_more_link: true
 more_link_text: Keep reading
 seo:
   title: Teckgeekz Blog
-  description: The preview of the Fjord theme
+  description: >-
+    Get latest information in Digital Marketing and Learn how to grow your
+    online business. Be successful in creating your online presence. follow
+    Teckgeekz Blog
   extra:
     - name: 'og:type'
       value: website
