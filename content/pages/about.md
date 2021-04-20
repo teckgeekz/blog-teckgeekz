@@ -1,5 +1,5 @@
 ---
-title: About Teckgeekz
+title: About Teckgeekz Digital Marketing
 subtitle: Teckgeeekz Digital Marketing & SEO Agency
 img_path: images/about.jpg
 seo:
