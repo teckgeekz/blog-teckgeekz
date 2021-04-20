@@ -3,7 +3,7 @@ title: How to get started with Inbound calls for Travel
 subtitle: Basic Requirements for Travel calls
 date: '2021-04-20'
 thumb_img_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: "We provide comprehensive solution for\_Travel PPC\_and Travel Industry Ads account management."
 hide_header: false
 seo:
   title: ''
