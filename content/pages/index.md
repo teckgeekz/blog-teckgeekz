@@ -35,7 +35,7 @@ seo:
         online business. Be successful in creating your online presence. follow
         Teckgeekz Blog
     - name: 'twitter:image'
-      value: images/home.jpg
+      value: /images/teckgeekz.png
       relativeUrl: true
 layout: home
 ---
