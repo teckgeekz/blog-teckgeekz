@@ -20,6 +20,13 @@ seo:
         spirit Airlines.
       keyName: property
       relativeUrl: false
+    - name: 'twitter:description'
+      value: >-
+        Are you looking for inbound calls for Airlines in United States. Need
+        assistance in generating inbound calls for Delta, United, Southwest and
+        spirit Airlines.
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
   description: >-
     Are you looking for inbound calls for Airlines in United States. Need
