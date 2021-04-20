@@ -13,7 +13,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Teckgeekz Blog - Digital Marketing & SEO Agency
+      value: "\U0001F680\U0001F680 Teckgeekz Blog - Digital Marketing & SEO Agency \U0001F680\U0001F680"
       keyName: property
     - name: 'og:description'
       value: >-
