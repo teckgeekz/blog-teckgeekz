@@ -16,7 +16,10 @@ seo:
       value: Teckgeekz Blog - Digital Marketing & SEO Agency
       keyName: property
     - name: 'og:description'
-      value: The preview of the Fjord theme
+      value: >-
+        Get latest information in Digital Marketing and Learn how to grow your
+        online business. Be successful in creating your online presence. follow
+        Teckgeekz Blog
       keyName: property
     - name: 'og:image'
       value: images/home.jpg
