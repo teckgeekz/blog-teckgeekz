@@ -7,7 +7,6 @@ excerpt: "We provide comprehensive solution for\_Travel PPC\_and Travel Industry
 hide_header: false
 seo:
   title: "\U0001F525\U0001F525 How to get started with Inbound Calls For Travel"
-  description: ''
   robots: []
   extra: []
   type: stackbit_page_meta
