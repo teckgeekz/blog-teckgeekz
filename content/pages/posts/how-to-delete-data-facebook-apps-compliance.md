@@ -6,7 +6,7 @@ thumb_img_alt: Faceboo App Approval Compliance
 excerpt: lorem-ipsum
 hide_header: false
 seo:
-  title: ''
+  title: How to request Data Deletion on facebook App
   description: ''
   robots: []
   extra: []
