@@ -22,6 +22,10 @@ seo:
       value: website
       keyName: property
       relativeUrl: false
+    - name: 'twitter:title'
+      value: How to request Data Deletion on Facebook App
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: post
 thumb_img_path: images/Facebook App approval.jpg
