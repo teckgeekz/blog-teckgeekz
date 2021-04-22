@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: How to request Data deletion on Facebook
 subtitle: lorem-ipsum
 date: '2021-04-22'
 thumb_img_alt: lorem-ipsum
