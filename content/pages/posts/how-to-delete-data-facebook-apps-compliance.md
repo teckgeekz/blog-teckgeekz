@@ -7,7 +7,10 @@ excerpt: lorem-ipsum
 hide_header: false
 seo:
   title: How to request Data Deletion on facebook App
-  description: ''
+  description: >-
+    How to provide data Deletion Call Back URL or Data deletion request
+    instruction in Facebook App. Here is a complete guide to Facebook data
+    Deletion Policy
   robots: []
   extra:
     - name: 'og:title'
