@@ -1,6 +1,6 @@
 ---
 title: How to request Data deletion on Facebook
-subtitle: lorem-ipsum
+subtitle: Facebook App compliance requirements
 date: '2021-04-22'
 thumb_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
