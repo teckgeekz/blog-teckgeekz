@@ -18,6 +18,10 @@ seo:
       value: /images/Facebook%20App%20approval.jpg
       keyName: property
       relativeUrl: true
+    - name: 'og:type'
+      value: website
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: post
 thumb_img_path: images/Facebook App approval.jpg
