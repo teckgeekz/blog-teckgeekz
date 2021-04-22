@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 thumb_img_path: images/Facebook App approval.jpg
+content_img_path: images/Facebook App approval.jpg
 ---
 ## How to request Data deletion on Facebook
 
