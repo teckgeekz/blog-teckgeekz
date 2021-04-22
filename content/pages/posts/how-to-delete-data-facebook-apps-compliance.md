@@ -36,6 +36,13 @@ seo:
         Deletion Policy
       keyName: property
       relativeUrl: false
+    - name: 'twitter:description'
+      value: >-
+        How to provide data Deletion Call Back URL or Data deletion request
+        instruction in Facebook App. Here is a complete guide to Facebook data
+        Deletion Policy
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: post
 thumb_img_path: images/Facebook App approval.jpg
