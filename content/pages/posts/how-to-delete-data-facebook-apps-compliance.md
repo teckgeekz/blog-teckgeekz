@@ -58,8 +58,6 @@ You might have used Facebook login on many of the popular websites. Some unknowi
 
 But if you’ve been following the news around Cambridge Analytica, the data consultancy firm hired by the Donald Trump campaign for the 2016 US election that harvested the data of up to 50 million Facebook users without their permission through data collected from third-party apps, you may want to know how to make sure that something similar isn’t happening to you.
 
-
-
 ## Instructions on how to Delete Data from apps using Facebook
 
 *   Go to Facebook.com (On Desktop)
@@ -78,25 +76,16 @@ But if you’ve been following the news around Cambridge Analytica, the data con
 
 *   Start with the apps or sites that you don’t use
 
-
-
 Once you have deleted apps, You are all set. Your Facebook Data will be deleted from that particular app or website. And they will no longer have the access to you Facebook account.
-
-
 
 ## Second Method to Request Data Deletion for Facebook account
 
 Click on box—the one labelled “Apps, Websites and Plugins”—if you click the Edit button on this one, you have the option to block any app or game from using Facebook. But then if you use Facebook to log into any other service, you will lose access. Facebook has inserted itself into the web in such a way that the same ways it’s become so useful to us are the ways it uses us to sell our information.
 
-
-
 ## For developers
 
 You might not be able to get your app approved any longer without providing clear instructions to the end user on how to delete the Data or Data Call back URL.
 
-To make it easier to get your App approved you can use this link and put it in the Data Deletion Instructions in Facebook App Basic settings.
+#### ****[**To make it easier to get your App approved you can use this link and put it in the Data Deletion Instructions in Facebook App Basic settings.**](https://blog.teckgeekz.com/posts/how-to-delete-data-facebook-apps-compliance/)
 
 This should be enough to get your app approved.  If you would like to do the advance option you can follow the link for [Data call back URL](https://developers.facebook.com/docs/development/create-an-app/app-dashboard/data-deletion-callback)
-
-
-
