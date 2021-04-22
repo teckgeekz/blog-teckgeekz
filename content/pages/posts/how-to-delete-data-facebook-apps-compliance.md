@@ -14,6 +14,10 @@ seo:
       value: How to request Data Deletion on facebook App
       keyName: property
       relativeUrl: false
+    - name: 'og:image'
+      value: /images/Facebook%20App%20approval.jpg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: post
 thumb_img_path: images/Facebook App approval.jpg
