@@ -3,7 +3,7 @@ title: How to request Data deletion on Facebook
 subtitle: Facebook App compliance requirements
 date: '2021-04-22'
 thumb_img_alt: Faceboo App Approval Compliance
-excerpt: lorem-ipsum
+excerpt: How to request Data deletion on Facebook. Facebook App compliance requirements
 hide_header: false
 seo:
   title: How to request Data Deletion on facebook App
