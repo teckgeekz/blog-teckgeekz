@@ -9,7 +9,11 @@ seo:
   title: How to request Data Deletion on facebook App
   description: ''
   robots: []
-  extra: []
+  extra:
+    - name: 'og:title'
+      value: How to request Data Deletion on facebook App
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: post
 thumb_img_path: images/Facebook App approval.jpg
