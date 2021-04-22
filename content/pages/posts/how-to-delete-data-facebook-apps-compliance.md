@@ -86,6 +86,6 @@ Click on box—the one labelled “Apps, Websites and Plugins”—if you click 
 
 You might not be able to get your app approved any longer without providing clear instructions to the end user on how to delete the Data or Data Call back URL.
 
-#### ****[**To make it easier to get your App approved you can use this link and put it in the Data Deletion Instructions in Facebook App Basic settings.**](https://blog.teckgeekz.com/posts/how-to-delete-data-facebook-apps-compliance/)
+#### [**To make it easier to get your App approved you can use this link and put it in the Data Deletion Instructions in Facebook App Basic settings.**](https://blog.teckgeekz.com/posts/how-to-delete-data-facebook-apps-compliance/)
 
 This should be enough to get your app approved.  If you would like to do the advance option you can follow the link for [Data call back URL](https://developers.facebook.com/docs/development/create-an-app/app-dashboard/data-deletion-callback)
