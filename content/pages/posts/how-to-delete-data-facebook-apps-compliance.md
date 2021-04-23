@@ -14,7 +14,7 @@ seo:
   robots: []
   extra:
     - name: 'og:title'
-      value: How to request Data Deletion on Facebook App
+      value: "\U0001F680\U0001F680 How to request Data Deletion on Facebook App"
       keyName: property
       relativeUrl: false
     - name: 'og:image'
