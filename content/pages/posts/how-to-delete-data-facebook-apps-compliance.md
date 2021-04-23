@@ -6,7 +6,7 @@ thumb_img_alt: Faceboo App Approval Compliance
 excerpt: How to request Data deletion on Facebook. Facebook App compliance requirements
 hide_header: false
 seo:
-  title: How to request Data Deletion on facebook App
+  title: "\U0001F680\U0001F680 How to request Data Deletion on facebook App"
   description: >-
     How to provide data Deletion Call Back URL or Data deletion request
     instruction in Facebook App. Here is a complete guide to Facebook data
