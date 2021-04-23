@@ -1,4 +1,4 @@
-Sitemap: https://domain.com/api/posts-sitemap
+Sitemap: https://blog.teckgeekz.com/sitemap.xml
 
 User-agent: *
 Allow: /*
