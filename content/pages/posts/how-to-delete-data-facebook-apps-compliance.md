@@ -26,7 +26,7 @@ seo:
       keyName: property
       relativeUrl: false
     - name: 'twitter:title'
-      value: How to request Data Deletion on Facebook App
+      value: "\U0001F680\U0001F680 How to request Data Deletion on Facebook App"
       keyName: name
       relativeUrl: false
     - name: 'og:description'
