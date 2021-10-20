@@ -50,7 +50,7 @@ seo:
     spirit Airlines.
 layout: post
 content_img_path: images/Inbound calls for Travel.jpg
-thumb_img_path: images/Inbound calls for Travel.jpg
+thumb_img_path: images/Inbound-calls-for-Travel.jpg
 ---
 # Basic Requirements to Start
 
