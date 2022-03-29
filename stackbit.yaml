@@ -1,4 +1,4 @@
-stackbitVersion: ~0.3.0
+stackbitVersion: ~0.4.0
 ssgName: nextjs
 ssgVersion: 9.4.4
 buildCommand: npm run build
